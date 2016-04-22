@@ -4,15 +4,23 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers? It helps to make changes before submitting them.
 
 How can you use the staging area to make sure you have one commit per logical
-change?
+change? use git diff to check changes made to staging area
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? How would branches help? If you want to test out a significant change to your program. Or create an alternative version of your program without affecting the main code. You can then create a ‘copy’ of the code to date and test that first.
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure? It makes it easier to see what changes have been made and branches added. It also helps you to keep track of the timeline of your current project.
 
 What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+the diagram the way we do? The 2 branches become one, and the one branch can be deleted to make the file cleaner. We show it in the diagram to show the changes made by the 2 branches now included in the final form.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Pros
+Saves time
+Program will highlight changes or errors
+Git will tell you if you have any conflicts
+
+Cons
+Manually have more controls over what to add
+Conflicts can be sorted out sooner
