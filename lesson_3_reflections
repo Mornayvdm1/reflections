@@ -12,3 +12,5 @@ Branches = make a copy of a commit locally. To test or add new features to curre
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that you have the most up to date file to work with, any errors fixed etc.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Use social media or contact the person to discuss any changes.
