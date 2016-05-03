@@ -16,3 +16,5 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Use social media or contact the person directly to discuss any changes.
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When - making changes to a file on your local computer to test or copy. Collaborating on a specific file with other people.
+Benefits - not affecting the master until you have successfully tested or submitted your files for checking.
